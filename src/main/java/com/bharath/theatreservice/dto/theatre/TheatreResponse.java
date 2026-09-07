@@ -1,4 +1,4 @@
-package com.bharath.theatreservice.dto.response;
+package com.bharath.theatreservice.dto.theatre;
 
 import com.bharath.theatreservice.entity.enums.TheatreStatus;
 import lombok.AllArgsConstructor;

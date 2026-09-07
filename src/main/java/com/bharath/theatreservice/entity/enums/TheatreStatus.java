@@ -1,4 +1,8 @@
 package com.bharath.theatreservice.entity.enums;
 
-public class TheatreStatus {
+public enum TheatreStatus {
+    ACTIVE,
+    INACTIVE,
+    UNDER_MAINTENANCE,
+    CLOSED
 }

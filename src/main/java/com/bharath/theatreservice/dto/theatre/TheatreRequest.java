@@ -1,4 +1,4 @@
-package com.bharath.theatreservice.dto.request;
+package com.bharath.theatreservice.dto.theatre;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
